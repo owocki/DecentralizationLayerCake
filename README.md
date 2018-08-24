@@ -19,7 +19,11 @@ The spirit of this project is to accept contributions from advocates of many cha
 | Protocol     | Development                | # client codebases that account for > 90% of nodes    |  1        | 2         | 1     |   |   |
 
 
-|                                               |
+## Contributing
+
+See something wrong with that data?  Got new data?  Great, submit a PR to this repo and demonstrate that you can make the case in a way that adheres to [the Code of Conduct](CODE_OF_CONDUCT.md) and we'll (1) accept your PR (2) add you as a collaborator.
+
+
 ## MISC 
 
 This project is inspired by [@Melt_Dem's tweet](https://twitter.com/Melt_Dem/status/1031190564639830016), and we are using their data as a starting point

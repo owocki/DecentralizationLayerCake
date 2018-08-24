@@ -26,7 +26,7 @@ See something wrong with that data?  Got new data?  Great, submit a PR to this r
 
 ## MISC 
 
-This project is inspired by [@Melt_Dem's tweet](https://twitter.com/Melt_Dem/status/1031190564639830016), and we are using their data as a starting point
+This project is inspired by [@Melt_Dem's tweet](https://twitter.com/Melt_Dem/status/1031190564639830016), and we are using their data as a starting point.  See also: [AreWeDecentralizedYet](https://arewedecentralizedyet.com/)
 
 
 

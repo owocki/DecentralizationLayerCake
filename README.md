@@ -8,15 +8,15 @@ The spirit of this project is to accept contributions from advocates of many cha
 
 ## Data
 
-| Layer         | Measure                   | Metric                                                | BTC  | ETH |  XRP     |       |   |
+| Layer         | Measure                   | Metric                                                | BTC       | ETH       |  XRP  | EOS        |     |
 |---|---|---|---|---|---|---|---|
-| Application  | Applications               | # applications that user VC $ or usage                |  1        | Dozens    | ?     |   |   |
-| Application  | Ecosystem                  | # funds dedicated to ecosystem                        |  Dozens   | 2-3       | 1     |   |   |
-| Network      | Network Cost               | Annual mining reward or cost                          |  $6b      | $120M     | 1     |   |   |
-| Network      | Nodes in Network           | # public nodes in network                             |  10k      | 18k       | ?     |   |   |
-| Network      | Node Concentration         | # entities with > 51% voting power                    |  3        | 3         | 1     |   |   |
-| Protocol     | Distribution of Tokens     | % supply held by top 100 accounts                     |  19%      | 35%       | 97%   |   |   |
-| Protocol     | Development                | # client codebases that account for > 90% of nodes    |  1        | 2         | 1     |   |   |
+| Application  | Applications               | # applications that user VC $ or usage                |  1        | Dozens    | ?     | Dozens      |   |
+| Application  | Ecosystem                  | # funds dedicated to ecosystem                        |  Dozens   | 2-3       | 1     | 1           |   |
+| Network      | Network Cost               | Annual mining reward or cost                          |  $6b      | $120M     | 1     | $76m        |   |
+| Network      | Nodes in Network           | # public nodes in network                             |  10k      | 18k       | ?     | 21          |   |
+| Network      | Node Concentration         | # entities with > 51% voting power                    |  3        | 3         | 1     | ??          |   |
+| Protocol     | Distribution of Tokens     | % supply held by top 100 accounts                     |  19%      | 35%       | 97%   | 36%         |   |
+| Protocol     | Development                | # client codebases that account for > 90% of nodes    |  1        | 2         | 1     | 1           |   |
 
 
 ## Contributing

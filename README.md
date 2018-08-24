@@ -6,6 +6,7 @@ The purpose of this repo is to visualize **Decentralization Across the Stack** f
 
 The spirit of this project is to accept contributions from advocates of many chains, as long as they are demonstrably truthful.  Debates about truthfuliness may occur on PRs from time to time, and are governed by [the Code of Conduct](CODE_OF_CONDUCT.md)
 
+## Data
 
 | Layer         | Measure                   | Metric                                                | BTC  | ETH |  XRP     |       |   |
 |---|---|---|---|---|---|---|---|
